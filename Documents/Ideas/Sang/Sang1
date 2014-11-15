@@ -1,0 +1,17 @@
+1. Web giúp các cửa hàng bán hàng, thuê hàng, mua hàng....
+2. Chi tiết:
+- Xây dựng một trang web bao gồm nhiều shop quần áo, mỹ phẩm, nhà hàng, khách sạn, khu du lịch.....nói chung là cứ có nhu cầu trao đổi, buôn bán hàng hoá.
+- Xây dựng một server quản lý thông tin cửa hàng, sản phẩm và cung cấp API cho phía client.
+3. Chức năng cơ bản:
+        ///bao gồm các chức năng trong idea của anh
+
+        - Vẽ lại không gian của Shop
+	- Cho khách hàng thử đồ (quần áo, giày dép...) bằng cách tự create 1 người mẫu theo cân nặng, chiều cao, ...
+        - Cho khách hàng xem chi tiết nguyên liệu, cách làm các món ăn,...
+
+4. Vấn đề đặt ra:
+- Phải vẽ lại được không gian shop dưới dạng 3D, cho phép khách xem toàn bộ Shop
+-> Phải có 1 thành viên biết thiết kế đồ hoạ
+- Phải có chương trình giúp khách hàng thử đồ
+- Cần có sự hợp tác của các Shop: không gian, sản phẩm, cách làm món ăn....
+
